@@ -3,7 +3,7 @@
 # */AIPND/intropylab-classifying-images/test_classifier.py
 #                                                                             
 # PROGRAMMER:MOHD KAIF                                                   
-# DATE CREATED: 12/25/2022                                  
+# DATE CREATED: 12/11/2022                                  
 # REVISED DATE:             <=(Date Revised - if any)                         
 # PURPOSE: To demonstrate the proper usage of the classifier() function that 
 #          is defined in classifier.py This function uses CNN model 
